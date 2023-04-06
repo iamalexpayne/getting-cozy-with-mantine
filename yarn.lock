@@ -1730,6 +1730,13 @@
   dependencies:
     "@mantine/utils" "6.0.2"
 
+"@mantine/ds@^6.0.6":
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/@mantine/ds/-/ds-6.0.6.tgz#edecd643a339a49488c6a71bbadda5f3fbb56f46"
+  integrity sha512-lwfpe/9kabOF2SL/4G/xetHHf8sV8kLX7ywUuor2P7JPHDBqQwfdK87Yqb+LfnNz3v0O6YVJx2hZXTP9eLWShg==
+  dependencies:
+    "@mantine/utils" "6.0.6"
+
 "@mantine/hooks@6.0.2":
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-6.0.2.tgz#88433aade23237c1566a083b80e6620eaa932561"
@@ -1779,6 +1786,11 @@
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-6.0.2.tgz#06da9dfb390a026e005f7e2712a3a30373a2b4c3"
   integrity sha512-fx+cmkb8PMpkr65nUs8YgaXFJbtNY+ybSXDfBxwFAWMTLAocbNo7vjkSvPWZVS1O2szPK/s4Rqdw0W76dyG4+w==
+
+"@mantine/utils@6.0.6":
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-6.0.6.tgz#19bff743cf69c0c0b39664a633cb7827bc996833"
+  integrity sha512-Pd+ZTJ3maXb1zihZzHpo00XLwcKEg+ZGLPFG5vg/YafLDDWIhgV6snTFVKsPb2cunVjOwzbKcvlmCHXBe97mTQ==
 
 "@mdx-js/mdx@^1.6.22":
   version "1.6.22"
